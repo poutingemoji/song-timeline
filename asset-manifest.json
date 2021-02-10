@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/spotify-timeline/static/css/main.e42e39fb.chunk.css",
-    "main.js": "/spotify-timeline/static/js/main.ebbc3ee3.chunk.js",
-    "main.js.map": "/spotify-timeline/static/js/main.ebbc3ee3.chunk.js.map",
+    "main.css": "/spotify-timeline/static/css/main.9971bfcb.chunk.css",
+    "main.js": "/spotify-timeline/static/js/main.308b7b18.chunk.js",
+    "main.js.map": "/spotify-timeline/static/js/main.308b7b18.chunk.js.map",
     "runtime-main.js": "/spotify-timeline/static/js/runtime-main.71f8fa46.js",
     "runtime-main.js.map": "/spotify-timeline/static/js/runtime-main.71f8fa46.js.map",
     "static/js/2.8da7dfa7.chunk.js": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js",
     "static/js/2.8da7dfa7.chunk.js.map": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.map",
     "index.html": "/spotify-timeline/index.html",
-    "static/css/main.e42e39fb.chunk.css.map": "/spotify-timeline/static/css/main.e42e39fb.chunk.css.map",
+    "static/css/main.9971bfcb.chunk.css.map": "/spotify-timeline/static/css/main.9971bfcb.chunk.css.map",
     "static/js/2.8da7dfa7.chunk.js.LICENSE.txt": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.LICENSE.txt",
-    "static/media/spotify-logo.0c4ae91b.png": "/spotify-timeline/static/media/spotify-logo.0c4ae91b.png"
+    "static/media/chung-ha-bad-boy.7c687d57.jpg": "/spotify-timeline/static/media/chung-ha-bad-boy.7c687d57.jpg",
+    "static/media/john-legend-bigger-love.21a4c058.jpg": "/spotify-timeline/static/media/john-legend-bigger-love.21a4c058.jpg",
+    "static/media/lauv-how-im-feeling.edbdf299.jpg": "/spotify-timeline/static/media/lauv-how-im-feeling.edbdf299.jpg",
+    "static/media/monsta-x-all-about-luv.7335a55a.jpg": "/spotify-timeline/static/media/monsta-x-all-about-luv.7335a55a.jpg",
+    "static/media/spotify-logo.0c4ae91b.png": "/spotify-timeline/static/media/spotify-logo.0c4ae91b.png",
+    "static/media/walk-off-the-earth-nicknames.ada6d3cf.jpg": "/spotify-timeline/static/media/walk-off-the-earth-nicknames.ada6d3cf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.71f8fa46.js",
     "static/js/2.8da7dfa7.chunk.js",
-    "static/css/main.e42e39fb.chunk.css",
-    "static/js/main.ebbc3ee3.chunk.js"
+    "static/css/main.9971bfcb.chunk.css",
+    "static/js/main.308b7b18.chunk.js"
   ]
 }
