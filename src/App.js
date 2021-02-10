@@ -1,13 +1,18 @@
-import Home from "./components/Home"
+import Timeline from "./components/Timeline"
+import spotifyLogo from "./images/spotify-logo.png"
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </header>
-      <Home></Home>
+      <header className="App-header"></header>
+      <h1>
+        poutingemoji's{" "}
+        <span>
+          <img src={spotifyLogo} width="170" style={{verticalAlign: "middle"}} />
+        </span>{" "}
+        Timeline
+      </h1>
+      <Timeline></Timeline>
     </div>
   );
 }
