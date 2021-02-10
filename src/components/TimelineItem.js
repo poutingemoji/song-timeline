@@ -6,7 +6,7 @@ const TimelineItem = ({ data }) => (
       className="timeline-item-content"
       style={{
         background: `linear-gradient(
-      rgba(24, 24, 24, 0.9),
+      rgba(24, 24, 24, 0.80),
       rgba(24, 24, 24, 1)
     ), url(${data.backgroundImage})`,
       }}
