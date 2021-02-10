@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/spotify-timeline/static/css/main.ac7dfec1.chunk.css",
-    "main.js": "/spotify-timeline/static/js/main.4d336b61.chunk.js",
-    "main.js.map": "/spotify-timeline/static/js/main.4d336b61.chunk.js.map",
+    "main.css": "/spotify-timeline/static/css/main.e42e39fb.chunk.css",
+    "main.js": "/spotify-timeline/static/js/main.ebbc3ee3.chunk.js",
+    "main.js.map": "/spotify-timeline/static/js/main.ebbc3ee3.chunk.js.map",
     "runtime-main.js": "/spotify-timeline/static/js/runtime-main.71f8fa46.js",
     "runtime-main.js.map": "/spotify-timeline/static/js/runtime-main.71f8fa46.js.map",
     "static/js/2.8da7dfa7.chunk.js": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js",
     "static/js/2.8da7dfa7.chunk.js.map": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.map",
     "index.html": "/spotify-timeline/index.html",
-    "static/css/main.ac7dfec1.chunk.css.map": "/spotify-timeline/static/css/main.ac7dfec1.chunk.css.map",
+    "static/css/main.e42e39fb.chunk.css.map": "/spotify-timeline/static/css/main.e42e39fb.chunk.css.map",
     "static/js/2.8da7dfa7.chunk.js.LICENSE.txt": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.LICENSE.txt",
     "static/media/spotify-logo.0c4ae91b.png": "/spotify-timeline/static/media/spotify-logo.0c4ae91b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.71f8fa46.js",
     "static/js/2.8da7dfa7.chunk.js",
-    "static/css/main.ac7dfec1.chunk.css",
-    "static/js/main.4d336b61.chunk.js"
+    "static/css/main.e42e39fb.chunk.css",
+    "static/js/main.ebbc3ee3.chunk.js"
   ]
 }
