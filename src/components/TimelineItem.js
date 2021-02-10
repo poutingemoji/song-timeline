@@ -1,3 +1,5 @@
+import ConditionalWrapper from "./ConditionalWrapper";
+
 const TimelineItem = ({ data }) => (
   <div className="timeline-item">
     <div className="timeline-item-content">
@@ -14,19 +16,29 @@ const TimelineItem = ({ data }) => (
 
       {data.songs.map((song, i) => (
         <span key={i}>
-          <h4>{song.name}</h4> <p>{song.artists.join(", ")}</p>
+          <ConditionalWrapper
+            condition={song.url}
+            wrapper={(children) => (
+              <a href={song.url} target="no_blank">
+                {children}
+              </a>
+            )}
+          >
+            <h4>{song.name}</h4>
+          </ConditionalWrapper>
+          <p>{song.artists.join(", ")}</p>
         </span>
       ))}
 
       {data.text?.length > 0 && <p>{data.text}</p>}
-      {data.link && (
-        <a href={data.link.url} target="_blank" rel="noopener noreferrer">
-          {data.link.text}
-        </a>
-      )}
       <span className="circle" />
     </div>
   </div>
 );
 
 export default TimelineItem;
+
+{
+  {
+  }
+}
