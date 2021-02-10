@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/songs-timeline/static/css/main.5d1fd09a.chunk.css",
-    "main.js": "/songs-timeline/static/js/main.d1375934.chunk.js",
-    "main.js.map": "/songs-timeline/static/js/main.d1375934.chunk.js.map",
+    "main.css": "/songs-timeline/static/css/main.79313c32.chunk.css",
+    "main.js": "/songs-timeline/static/js/main.1d62974f.chunk.js",
+    "main.js.map": "/songs-timeline/static/js/main.1d62974f.chunk.js.map",
     "runtime-main.js": "/songs-timeline/static/js/runtime-main.84f8ca59.js",
     "runtime-main.js.map": "/songs-timeline/static/js/runtime-main.84f8ca59.js.map",
-    "static/js/2.95224a72.chunk.js": "/songs-timeline/static/js/2.95224a72.chunk.js",
-    "static/js/2.95224a72.chunk.js.map": "/songs-timeline/static/js/2.95224a72.chunk.js.map",
+    "static/js/2.515bfb4d.chunk.js": "/songs-timeline/static/js/2.515bfb4d.chunk.js",
+    "static/js/2.515bfb4d.chunk.js.map": "/songs-timeline/static/js/2.515bfb4d.chunk.js.map",
     "index.html": "/songs-timeline/index.html",
-    "static/css/main.5d1fd09a.chunk.css.map": "/songs-timeline/static/css/main.5d1fd09a.chunk.css.map",
-    "static/js/2.95224a72.chunk.js.LICENSE.txt": "/songs-timeline/static/js/2.95224a72.chunk.js.LICENSE.txt"
+    "static/css/main.79313c32.chunk.css.map": "/songs-timeline/static/css/main.79313c32.chunk.css.map",
+    "static/js/2.515bfb4d.chunk.js.LICENSE.txt": "/songs-timeline/static/js/2.515bfb4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.84f8ca59.js",
-    "static/js/2.95224a72.chunk.js",
-    "static/css/main.5d1fd09a.chunk.css",
-    "static/js/main.d1375934.chunk.js"
+    "static/js/2.515bfb4d.chunk.js",
+    "static/css/main.79313c32.chunk.css",
+    "static/js/main.1d62974f.chunk.js"
   ]
 }
