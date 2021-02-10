@@ -1,8 +1,8 @@
 {
-  "name": "songs-timeline",
+  "name": "spotify-timeline",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://poutingemoji.github.io/songs-timeline/",
+  "homepage": "https://poutingemoji.github.io/spotify-timeline/",
   "dependencies": {
     "react": "^17.0.1",
     "react-chrono": "^1.9.1",
