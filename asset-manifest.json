@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spotify-timeline/static/css/main.9971bfcb.chunk.css",
+    "main.css": "/spotify-timeline/static/css/main.2e37d30f.chunk.css",
     "main.js": "/spotify-timeline/static/js/main.308b7b18.chunk.js",
     "main.js.map": "/spotify-timeline/static/js/main.308b7b18.chunk.js.map",
     "runtime-main.js": "/spotify-timeline/static/js/runtime-main.71f8fa46.js",
@@ -8,7 +8,7 @@
     "static/js/2.8da7dfa7.chunk.js": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js",
     "static/js/2.8da7dfa7.chunk.js.map": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.map",
     "index.html": "/spotify-timeline/index.html",
-    "static/css/main.9971bfcb.chunk.css.map": "/spotify-timeline/static/css/main.9971bfcb.chunk.css.map",
+    "static/css/main.2e37d30f.chunk.css.map": "/spotify-timeline/static/css/main.2e37d30f.chunk.css.map",
     "static/js/2.8da7dfa7.chunk.js.LICENSE.txt": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.LICENSE.txt",
     "static/media/chung-ha-bad-boy.7c687d57.jpg": "/spotify-timeline/static/media/chung-ha-bad-boy.7c687d57.jpg",
     "static/media/john-legend-bigger-love.21a4c058.jpg": "/spotify-timeline/static/media/john-legend-bigger-love.21a4c058.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.71f8fa46.js",
     "static/js/2.8da7dfa7.chunk.js",
-    "static/css/main.9971bfcb.chunk.css",
+    "static/css/main.2e37d30f.chunk.css",
     "static/js/main.308b7b18.chunk.js"
   ]
 }
