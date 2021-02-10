@@ -1,7 +1,13 @@
 const TimelineItem = ({ data }) => (
   <div className="timeline-item">
     <div className="timeline-item-content">
-      <span className="tag" style={{ background: data.category.color }}>
+      <span
+        className="tag"
+        style={{
+          color: data.category.color || "white",
+          background: data.category.backgroundColor || "#1db954",
+        }}
+      >
         {data.category.tag}
       </span>
       <time>{data.date}</time>
