@@ -2,10 +2,15 @@ import ConditionalWrapper from "./ConditionalWrapper";
 
 const TimelineItem = ({ data }) => (
   <div className="timeline-item">
-    <div className="timeline-item-content" style={{background: `linear-gradient(
+    <div
+      className="timeline-item-content"
+      style={{
+        background: `linear-gradient(
       rgba(24, 24, 24, 0.9),
       rgba(24, 24, 24, 1)
-    ), url(${data.backgroundImage})`}}>
+    ), url(${data.backgroundImage})`,
+      }}
+    >
       <span
         className="tag"
         style={{
@@ -22,7 +27,7 @@ const TimelineItem = ({ data }) => (
           <ConditionalWrapper
             condition={song.url}
             wrapper={(children) => (
-              <a href={song.url} target="no_blank">
+              <a href={song.url} target="no_blank" rel="noopener">
                 {children}
               </a>
             )}
