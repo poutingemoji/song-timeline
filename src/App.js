@@ -1,5 +1,6 @@
 import Timeline from "./components/Timeline"
 import spotifyLogo from "./images/spotify-logo.png"
+import johnLegendBiggerLove from "./images/john-legend-bigger-love.jpg";
 
 function App() {
   return (
@@ -8,7 +9,11 @@ function App() {
       <h1>
         poutingemoji's{" "}
         <span>
-          <img src={spotifyLogo} width="170" style={{verticalAlign: "middle"}} />
+          <img
+            src={spotifyLogo}
+            width="170"
+            style={{ verticalAlign: "middle" }}
+          />
         </span>{" "}
         Timeline
       </h1>

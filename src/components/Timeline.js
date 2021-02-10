@@ -1,4 +1,10 @@
 import TimelineItem from "./TimelineItem";
+import monstaXAllAboutLuv from "../images/monsta-x-all-about-luv.jpg"
+import chungHaBadBoy from "../images/chung-ha-bad-boy.jpg";
+import linManuelMirandaHamilton from "../images/lin-manuel-miranda-hamilton.jpg";
+import lauvHowImFeeling from "../images/lauv-how-im-feeling.jpg"
+import johnLegendBiggerLove from "../images/john-legend-bigger-love.jpg";
+import walkOffTheEarthNicknames from "../images/walk-off-the-earth-nicknames.jpg"
 
 const timelineData = [
   {
@@ -10,6 +16,7 @@ const timelineData = [
       },
     ],
     date: "September 14, 2020",
+    backgroundImage: monstaXAllAboutLuv,
     category: {
       tag: "Recommendation",
       backgroundColor: "#ff5446",
@@ -24,6 +31,7 @@ const timelineData = [
       },
     ],
     date: "September 27, 2020",
+    backgroundImage: chungHaBadBoy,
     category: {
       tag: "Recommendation",
       backgroundColor: "#ff5446",
@@ -61,6 +69,7 @@ const timelineData = [
       },
     ],
     date: "November 13, 2020",
+    backgroundImage: linManuelMirandaHamilton,
     category: {
       tag: "Recommendation",
       backgroundColor: "#ff5446",
@@ -95,6 +104,7 @@ const timelineData = [
       },
     ],
     date: "December 30, 2020",
+    backgroundImage: lauvHowImFeeling,
     category: {
       tag: "Wrapped",
       color: "#ef36a7",
@@ -145,6 +155,7 @@ const timelineData = [
       },
     ],
     date: "January 28, 2021",
+    backgroundImage: johnLegendBiggerLove,
     category: {
       tag: "Monthly",
     },
@@ -178,6 +189,7 @@ const timelineData = [
       },
     ],
     date: "February 9, 2021",
+    backgroundImage: walkOffTheEarthNicknames,
     category: {
       tag: "Monthly",
     },

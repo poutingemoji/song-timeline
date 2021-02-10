@@ -2,7 +2,10 @@ import ConditionalWrapper from "./ConditionalWrapper";
 
 const TimelineItem = ({ data }) => (
   <div className="timeline-item">
-    <div className="timeline-item-content">
+    <div className="timeline-item-content" style={{background: `linear-gradient(
+      rgba(24, 24, 24, 0.9),
+      rgba(24, 24, 24, 1)
+    ), url(${data.backgroundImage})`}}>
       <span
         className="tag"
         style={{
