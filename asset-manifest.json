@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/songs-timeline/static/css/main.79313c32.chunk.css",
-    "main.js": "/songs-timeline/static/js/main.1d62974f.chunk.js",
-    "main.js.map": "/songs-timeline/static/js/main.1d62974f.chunk.js.map",
+    "main.js": "/songs-timeline/static/js/main.d7936f5c.chunk.js",
+    "main.js.map": "/songs-timeline/static/js/main.d7936f5c.chunk.js.map",
     "runtime-main.js": "/songs-timeline/static/js/runtime-main.84f8ca59.js",
     "runtime-main.js.map": "/songs-timeline/static/js/runtime-main.84f8ca59.js.map",
     "static/js/2.515bfb4d.chunk.js": "/songs-timeline/static/js/2.515bfb4d.chunk.js",
     "static/js/2.515bfb4d.chunk.js.map": "/songs-timeline/static/js/2.515bfb4d.chunk.js.map",
     "index.html": "/songs-timeline/index.html",
     "static/css/main.79313c32.chunk.css.map": "/songs-timeline/static/css/main.79313c32.chunk.css.map",
-    "static/js/2.515bfb4d.chunk.js.LICENSE.txt": "/songs-timeline/static/js/2.515bfb4d.chunk.js.LICENSE.txt"
+    "static/js/2.515bfb4d.chunk.js.LICENSE.txt": "/songs-timeline/static/js/2.515bfb4d.chunk.js.LICENSE.txt",
+    "static/media/spotify-logo.0c4ae91b.png": "/songs-timeline/static/media/spotify-logo.0c4ae91b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.84f8ca59.js",
     "static/js/2.515bfb4d.chunk.js",
     "static/css/main.79313c32.chunk.css",
-    "static/js/main.1d62974f.chunk.js"
+    "static/js/main.d7936f5c.chunk.js"
   ]
 }
