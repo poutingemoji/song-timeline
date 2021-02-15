@@ -3,7 +3,7 @@ import ConditionalWrapper from "./ConditionalWrapper";
 const TimelineItem = ({ data }) => (
   <div className="timeline-item">
     <div
-      className="timeline-item-content"
+      className="timeline-item-content flex flex-col items-end text-right"
       style={{
         background: `linear-gradient(
       rgba(24, 24, 24, 0.80),
