@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/spotify-timeline/static/css/main.bc611dfb.chunk.css",
-    "main.js": "/spotify-timeline/static/js/main.f1925e42.chunk.js",
-    "main.js.map": "/spotify-timeline/static/js/main.f1925e42.chunk.js.map",
+    "main.css": "/spotify-timeline/static/css/main.02c0d837.chunk.css",
+    "main.js": "/spotify-timeline/static/js/main.d68edcac.chunk.js",
+    "main.js.map": "/spotify-timeline/static/js/main.d68edcac.chunk.js.map",
     "runtime-main.js": "/spotify-timeline/static/js/runtime-main.71f8fa46.js",
     "runtime-main.js.map": "/spotify-timeline/static/js/runtime-main.71f8fa46.js.map",
     "static/js/2.8da7dfa7.chunk.js": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js",
     "static/js/2.8da7dfa7.chunk.js.map": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.map",
     "index.html": "/spotify-timeline/index.html",
-    "static/css/main.bc611dfb.chunk.css.map": "/spotify-timeline/static/css/main.bc611dfb.chunk.css.map",
+    "static/css/main.02c0d837.chunk.css.map": "/spotify-timeline/static/css/main.02c0d837.chunk.css.map",
     "static/js/2.8da7dfa7.chunk.js.LICENSE.txt": "/spotify-timeline/static/js/2.8da7dfa7.chunk.js.LICENSE.txt",
-    "static/media/chung-ha-bad-boy.7c687d57.jpg": "/spotify-timeline/static/media/chung-ha-bad-boy.7c687d57.jpg",
-    "static/media/john-legend-bigger-love.21a4c058.jpg": "/spotify-timeline/static/media/john-legend-bigger-love.21a4c058.jpg",
-    "static/media/lauv-how-im-feeling.edbdf299.jpg": "/spotify-timeline/static/media/lauv-how-im-feeling.edbdf299.jpg",
-    "static/media/monsta-x-all-about-luv.7335a55a.jpg": "/spotify-timeline/static/media/monsta-x-all-about-luv.7335a55a.jpg",
-    "static/media/spotify-logo.0c4ae91b.png": "/spotify-timeline/static/media/spotify-logo.0c4ae91b.png",
-    "static/media/walk-off-the-earth-nicknames.ada6d3cf.jpg": "/spotify-timeline/static/media/walk-off-the-earth-nicknames.ada6d3cf.jpg"
+    "static/media/all-about-luv.7335a55a.jpg": "/spotify-timeline/static/media/all-about-luv.7335a55a.jpg",
+    "static/media/bad-boy.7c687d57.jpg": "/spotify-timeline/static/media/bad-boy.7c687d57.jpg",
+    "static/media/bigger-love.a64e638f.jpg": "/spotify-timeline/static/media/bigger-love.a64e638f.jpg",
+    "static/media/how-im-feeling.edbdf299.jpg": "/spotify-timeline/static/media/how-im-feeling.edbdf299.jpg",
+    "static/media/john-legend.8268d31f.png": "/spotify-timeline/static/media/john-legend.8268d31f.png",
+    "static/media/nicknames.ada6d3cf.jpg": "/spotify-timeline/static/media/nicknames.ada6d3cf.jpg",
+    "static/media/spotify-logo.f48fb565.png": "/spotify-timeline/static/media/spotify-logo.f48fb565.png",
+    "static/media/tears-of-gold.2795f454.jpg": "/spotify-timeline/static/media/tears-of-gold.2795f454.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.71f8fa46.js",
     "static/js/2.8da7dfa7.chunk.js",
-    "static/css/main.bc611dfb.chunk.css",
-    "static/js/main.f1925e42.chunk.js"
+    "static/css/main.02c0d837.chunk.css",
+    "static/js/main.d68edcac.chunk.js"
   ]
 }
