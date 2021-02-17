@@ -1,9 +1,10 @@
-import allAboutLuv from "../images/albums/all-about-luv.jpg"
+import allAboutLuv from "../images/albums/all-about-luv.jpg";
 import badBoy from "../images/albums/bad-boy.jpg";
 import hamilton from "../images/albums/hamilton.jpg";
 import howImFeeling from "../images/albums/how-im-feeling.jpg";
 import biggerLove from "../images/albums/bigger-love.jpg";
 import nicknames from "../images/albums/nicknames.jpg";
+
 
 export default [
   {
@@ -194,4 +195,3 @@ export default [
     },
   },
 ];
-
