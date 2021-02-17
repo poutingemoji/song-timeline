@@ -32,6 +32,19 @@ const songs = [
   },
 ];
 
+/*
+fetch(
+  "https://api.spotify.com/v1/tracks?ids=3n3Ppam7vgaVa1iaRUc9Lp%2C3twNvmDtFQtAd5gMKedhLD",
+  {
+    headers: {
+      Authorization: `Bearer ${process.env.SPOTIFY_TOKEN}`,
+    },
+  }
+)
+  .then((res) => res.json())
+  .then((playlist) => console.log(playlist));*/
+
+
 fetch(
   "https://api.spotify.com/v1/tracks?ids=3n3Ppam7vgaVa1iaRUc9Lp%2C3twNvmDtFQtAd5gMKedhLD",
   {
