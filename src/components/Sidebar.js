@@ -7,7 +7,6 @@ function Sidebar() {
   return (
     <div
       className="fixed bottom-0 left-0 flex-col hidden w-2/12 h-screen gap-4 px-6 pt-8 overflow-x-hidden overflow-y-scroll text-center bg-black lg:text-left md:flex"
-      style={{ scrollbarColor: "dark" }}
     >
       <div></div>
       {/*songs*/}

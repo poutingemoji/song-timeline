@@ -17,7 +17,7 @@ function App() {
       */}
 
         <div className="w-full md:w-10/12 bg-gray-dark">
-          <div className="container px-6 pt-16">
+          <div className="container px-4 py-3 xl:py-8 xl:px-16">
             <Timeline></Timeline>
           </div>
         </div>

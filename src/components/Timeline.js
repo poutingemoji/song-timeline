@@ -6,7 +6,7 @@ import ConditionalWrapper from "./ConditionalWrapper";
 function Timeline() {
   return (
     <div className="container w-full h-full mx-auto">
-      <div className="relative h-full p-10 overflow-hidden wrap">
+      <div className="relative h-full overflow-hidden wrap">
         <div className="absolute h-full border-2 border-opacity-50 border-gray left-2/4"></div>
         {timelineData.map((item, i) => {
           return <TimelineItem item={item} i={i} />;

@@ -22,10 +22,10 @@ const TimelineItem = ({ item, i }) => (
       i % 2 == 0 ? "text-right" : ""
     }`}
   >
-    <div className="order-1 w-5/12"></div>
+    <div className="order-1 w-7/16"></div>
     <div className="z-20 flex items-center order-1 w-3 h-3 rounded-full shadow-xl bg-celadon"></div>
     <div
-      className="order-1 w-5/12 px-6 py-4 rounded-lg shadow-xl"
+      className="order-1 px-6 py-4 rounded-lg shadow-xl w-7/16"
       style={{
         background: `linear-gradient(
       rgba(24, 24, 24, 0.80),
@@ -51,7 +51,7 @@ const TimelineItem = ({ item, i }) => (
               {song.name}
             </h3>
           </ConditionalWrapper>
-          <p className="text-gray-light">{song.artists.join(", ")}</p>
+          <p className="hidden text-gray-light sm:block">{song.artists.join(", ")}</p>
         </span>
       ))}
     </div>
@@ -59,35 +59,3 @@ const TimelineItem = ({ item, i }) => (
 );
 
 export default TimelineItem;
-
-/*
-    <span
-        className="tag"
-        style={{
-          color: data.category.color || "white",
-          background: data.category.backgroundColor || "#1db954",
-        }}><
-      ><time>{data.date}</time>
-        {data.category.tag}
-      </span>
-      
-
-    
-{data.songs.map((song, i) => (
-        <span key={i}>
-          <ConditionalWrapper
-            condition={song.url}
-            wrapper={(children) => (
-              <a href={song.url} target="no_blank" rel="noopener">
-                {children}
-              </a>
-            )}
-          >
-            <h4>{song.name}</h4>
-          </ConditionalWrapper>
-          <p>{song.artists.join(", ")}</p>
-        </span>
-      ))}
-
-      {data.text?.length > 0 && <p>{data.text}</p>}
-      */
