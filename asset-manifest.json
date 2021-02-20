@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/song-timeline/static/css/main.c3d06296.chunk.css",
-    "main.js": "/song-timeline/static/js/main.96ef24b9.chunk.js",
-    "main.js.map": "/song-timeline/static/js/main.96ef24b9.chunk.js.map",
-    "runtime-main.js": "/song-timeline/static/js/runtime-main.bc237109.js",
-    "runtime-main.js.map": "/song-timeline/static/js/runtime-main.bc237109.js.map",
-    "static/js/2.612b7afb.chunk.js": "/song-timeline/static/js/2.612b7afb.chunk.js",
-    "static/js/2.612b7afb.chunk.js.map": "/song-timeline/static/js/2.612b7afb.chunk.js.map",
+    "main.css": "/song-timeline/static/css/main.dad00399.chunk.css",
+    "main.js": "/song-timeline/static/js/main.be1dc7ad.chunk.js",
+    "main.js.map": "/song-timeline/static/js/main.be1dc7ad.chunk.js.map",
+    "runtime-main.js": "/song-timeline/static/js/runtime-main.d50bdcd0.js",
+    "runtime-main.js.map": "/song-timeline/static/js/runtime-main.d50bdcd0.js.map",
+    "static/js/2.0cc622cd.chunk.js": "/song-timeline/static/js/2.0cc622cd.chunk.js",
+    "static/js/2.0cc622cd.chunk.js.map": "/song-timeline/static/js/2.0cc622cd.chunk.js.map",
     "index.html": "/song-timeline/index.html",
-    "static/css/main.c3d06296.chunk.css.map": "/song-timeline/static/css/main.c3d06296.chunk.css.map",
-    "static/js/2.612b7afb.chunk.js.LICENSE.txt": "/song-timeline/static/js/2.612b7afb.chunk.js.LICENSE.txt",
+    "static/css/main.dad00399.chunk.css.map": "/song-timeline/static/css/main.dad00399.chunk.css.map",
+    "static/js/2.0cc622cd.chunk.js.LICENSE.txt": "/song-timeline/static/js/2.0cc622cd.chunk.js.LICENSE.txt",
     "static/media/all-about-luv.7335a55a.jpg": "/song-timeline/static/media/all-about-luv.7335a55a.jpg",
     "static/media/bad-boy.7c687d57.jpg": "/song-timeline/static/media/bad-boy.7c687d57.jpg",
     "static/media/bigger-love.a64e638f.jpg": "/song-timeline/static/media/bigger-love.a64e638f.jpg",
@@ -17,13 +17,12 @@
     "static/media/how-it-all-works-out.16a0da60.jpg": "/song-timeline/static/media/how-it-all-works-out.16a0da60.jpg",
     "static/media/john-legend.8268d31f.png": "/song-timeline/static/media/john-legend.8268d31f.png",
     "static/media/nicknames.ada6d3cf.jpg": "/song-timeline/static/media/nicknames.ada6d3cf.jpg",
-    "static/media/spotify-logo.f48fb565.png": "/song-timeline/static/media/spotify-logo.f48fb565.png",
     "static/media/tears-of-gold.2795f454.jpg": "/song-timeline/static/media/tears-of-gold.2795f454.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc237109.js",
-    "static/js/2.612b7afb.chunk.js",
-    "static/css/main.c3d06296.chunk.css",
-    "static/js/main.96ef24b9.chunk.js"
+    "static/js/runtime-main.d50bdcd0.js",
+    "static/js/2.0cc622cd.chunk.js",
+    "static/css/main.dad00399.chunk.css",
+    "static/js/main.be1dc7ad.chunk.js"
   ]
 }
