@@ -5,8 +5,7 @@ import howImFeeling from "../images/albums/how-im-feeling.jpg";
 import biggerLove from "../images/albums/bigger-love.jpg";
 import nicknames from "../images/albums/nicknames.jpg";
 
-
-export default [
+const timelineData = [
   {
     songs: [
       {
@@ -15,7 +14,7 @@ export default [
         url: "https://www.youtube.com/watch?v=6VUPNB_-kKc",
       },
     ],
-    date: "September 14, 2020",
+    date: new Date(2020, 8, 14),
     backgroundImage: allAboutLuv,
     category: {
       tag: "Recommendation",
@@ -30,7 +29,7 @@ export default [
         url: "https://www.youtube.com/watch?v=JXgiOvHU0AY",
       },
     ],
-    date: "September 27, 2020",
+    date: new Date(2020, 8, 27),
     backgroundImage: badBoy,
     category: {
       tag: "Recommendation",
@@ -42,12 +41,12 @@ export default [
       {
         name: "Alexander Hamilton",
         artists: [
+          "Original Broadway Cast of Hamilton",
           "Leslie Odom Jr.",
           "Anthony Ramos",
           "Daveed Diggs",
           "Okieriete Onaodowan",
           "Phillipa Soo",
-          "Original Broadway Cast of Hamilton",
         ],
         url: "https://www.youtube.com/watch?v=VhinPd5RRJw",
       },
@@ -59,16 +58,16 @@ export default [
       {
         name: "The Schuyler Sisters",
         artists: [
+          "Original Broadway Cast of Hamilton",
           "Renée Elise Goldsberry",
           "Phillipa Soo",
           "Jasmine Cephas-Jones",
           "Leslie Odom Jr.",
-          "Original Broadway Cast of Hamilton",
         ],
         url: "https://www.youtube.com/watch?v=UeqKF_NF1Qs",
       },
     ],
-    date: "November 13, 2020",
+    date: new Date(2020, 10, 13),
     backgroundImage: hamilton,
     category: {
       tag: "Recommendation",
@@ -103,7 +102,7 @@ export default [
         url: "https://www.youtube.com/watch?v=_1johXhbdKU",
       },
     ],
-    date: "December 30, 2020",
+    date: new Date(2020, 11, 20),
     backgroundImage: howImFeeling,
     category: {
       tag: "Wrapped",
@@ -154,7 +153,7 @@ export default [
         url: "https://www.youtube.com/watch?v=MDSzV2Ymq2A",
       },
     ],
-    date: "January 28, 2021",
+    date: new Date(2021, 0, 28),
     backgroundImage: biggerLove,
     category: {
       tag: "Monthly",
@@ -188,10 +187,13 @@ export default [
         url: "https://www.youtube.com/watch?v=tvTdg7sgsgU",
       },
     ],
-    date: "February 9, 2021",
+    date: new Date(2021, 1, 9),
     backgroundImage: nicknames,
     category: {
       tag: "Monthly",
     },
   },
 ];
+
+export default timelineData;
+console.log("EXPORTED");
