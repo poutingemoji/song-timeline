@@ -6,7 +6,7 @@ const artistAndSongData = [songData, artistData]
 function Sidebar() {
   return (
     <div
-      className="fixed bottom-0 left-0 flex-col hidden w-2/12 h-screen gap-4 px-6 pt-8 overflow-x-hidden overflow-y-scroll text-center bg-black lg:text-left md:flex"
+      className="fixed bottom-0 left-0 flex-col items-center hidden w-2/12 h-screen gap-4 px-6 pt-8 overflow-x-hidden overflow-y-scroll text-center bg-black lg:text-left md:flex lg:items-start"
     >
       <div></div>
       {/*songs*/}
