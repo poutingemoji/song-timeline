@@ -2,14 +2,24 @@ import biggerLove from "../images/albums/bigger-love.jpg";
 import tearsOfGold from "../images/albums/tears-of-gold.jpg";
 import minefields from "../images/albums/minefields.jpg";
 import howItAllWorksOut from "../images/albums/how-it-all-works-out.jpg";
-
-
+import gravity from "../images/albums/gravity.jpg";
+import ambitions from "../images/albums/ambitions.jpg"
 const songs = [
   {
     name: "Minefields",
     artist: "",
     image: minefields,
     url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+  },
+  {
+    name: "Dreaming Alone",
+    image: gravity,
+    url: "https://www.youtube.com/watch?v=XIFU8APnPSk",
+  },
+  {
+    name: "We Are",
+    image: ambitions,
+    url: "https://www.youtube.com/watch?v=uyaKoj7wABY",
   },
   {
     name: "All of Me",
@@ -29,7 +39,7 @@ const songs = [
     url: "https://www.youtube.com/watch?v=XszK-TDzMnQ",
   },
   {
-    name: "How It all Works Out",
+    name: "How It All Works Out",
     image: howItAllWorksOut,
     url: "https://www.youtube.com/watch?v=NjN4rOBZV2s",
   },

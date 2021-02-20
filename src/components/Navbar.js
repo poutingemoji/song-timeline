@@ -11,10 +11,3 @@ function Navbar() {
 }
 
 export default Navbar;
-/*
-  <header className="flex flex-wrap items-center w-10/12 px-6 py-2 bg-black lg:px-4 lg:py-2">
-      <h1 className="text-xl font-bold text-white xl:text-2xl">
-        poutingemoji's Song Timeline
-      </h1>
-    </header>
-*/

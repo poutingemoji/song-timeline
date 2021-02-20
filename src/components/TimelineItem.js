@@ -33,12 +33,12 @@ const TimelineItem = ({ item, i }) => (
     ), url(${item.backgroundImage})`,
       }}
     >
-      <h3 className="mb-3 text-lg font-bold text-white 2xl:text-xl">{`${
+      <h3 className="mb-3 text-lg font-bold text-white sm:text-xl">{`${
         monthNames[item.date.getMonth()]
       } ${item.date.getDate()}, ${item.date.getFullYear()}`}</h3>
 
       {item.songs.map((song, i) => (
-        <span key={i} className="text-sm 2xl:text-base">
+        <span key={i} className="text-sm sm:text-base">
           <ConditionalWrapper
             condition={song.url}
             wrapper={(children) => (

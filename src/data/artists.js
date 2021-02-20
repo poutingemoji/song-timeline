@@ -1,5 +1,6 @@
-import johnLegend from "../images/artists/john-legend.png";
+import johnLegend from "../images/artists/john-legend.jpg";
 import faouzia from "../images/artists/faouzia.jpg";
+import samSmith from "../images/artists/sam-smith.jpg";
 export default [
   {
     name: "John Legend",
@@ -9,7 +10,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -19,7 +25,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -29,7 +40,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -39,7 +55,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -49,7 +70,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -59,7 +85,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -69,7 +100,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -79,7 +115,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -89,7 +130,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -99,7 +145,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -109,7 +160,12 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
+  },
+  {
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
   {
     name: "John Legend",
@@ -119,116 +175,11 @@ export default [
   {
     name: "Faouzia",
     image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    url: "https://www.youtube.com/channel/UCLwbyg15zJgjtNL0EErkOPA",
   },
   {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
-  },
-  {
-    name: "John Legend",
-    image: johnLegend,
-    url: "https://www.youtube.com/channel/UCEa-JnNdYCIFn3HMhjGEWpQ",
-  },
-  {
-    name: "Faouzia",
-    image: faouzia,
-    url: "https://www.youtube.com/watch?v=jKIEUdAMtrQ",
+    name: "Sam Smith",
+    image: samSmith,
+    url: "https://www.youtube.com/user/samsmithworld",
   },
 ];
