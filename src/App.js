@@ -9,8 +9,7 @@ function App() {
       <Sidebar />
       <div className="flex flex-wrap md:flex-row-reverse">
         <div className="w-full md:w-10/12 bg-gray-dark">
-          <div className="container flex flex-col items-center px-6 pt-20 xl:pt-16 xl:px-8">
-            <h1 className="pb-4 text-xl text-gray">Psst! Hover over the dates for an insight ;)</h1>
+          <div className="container flex flex-col items-center px-6 pt-20 xl:pt-20 xl:px-8">
             <Timeline />
             {/* 
             <div id="popup" className="fixed bottom-0 w-2/6 h-20 bg-white">
