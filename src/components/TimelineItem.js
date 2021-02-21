@@ -28,12 +28,12 @@ const TimelineItem = ({ item, i }) => (
       className="order-1 px-6 py-4 rounded-lg shadow-xl w-7/16"
       style={{
         background: `linear-gradient(
-      rgba(24, 24, 24, 0.80),
-      rgba(24, 24, 24, 1)
+      rgba(24, 24, 24, 0.9),
+      rgba(24, 24, 24, 0.9)
     ), url(${item.backgroundImage})`,
       }}
     >
-      <h3 className="mb-3 text-lg font-bold text-white sm:text-xl">{`${
+      <h3 className="mb-3 text-lg font-bold text-white timeline-item sm:text-xl hover:wavy">{`${
         monthNames[item.date.getMonth()]
       } ${item.date.getDate()}, ${item.date.getFullYear()}`}</h3>
 
@@ -51,7 +51,9 @@ const TimelineItem = ({ item, i }) => (
               {song.name}
             </h3>
           </ConditionalWrapper>
-          <p className="hidden text-gray-light sm:block">{song.artists.join(", ")}</p>
+          <p className="hidden text-gray-light sm:block">
+            {song.artists.join(", ")}
+          </p>
         </span>
       ))}
     </div>

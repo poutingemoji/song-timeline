@@ -9,7 +9,7 @@ function App() {
       <Sidebar />
       <div className="flex flex-wrap md:flex-row-reverse">
         <div className="w-full md:w-10/12 bg-gray-dark">
-          <div className="container px-4 pt-16 xl:pt-24 xl:px-8">
+          <div className="container px-4 pt-20 xl:pt-24 xl:px-8">
             <Timeline></Timeline>
           </div>
         </div>

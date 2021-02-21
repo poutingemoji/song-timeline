@@ -4,8 +4,39 @@ import hamilton from "../images/albums/hamilton.jpg";
 import howImFeeling from "../images/albums/how-im-feeling.jpg";
 import biggerLove from "../images/albums/bigger-love.jpg";
 import nicknames from "../images/albums/nicknames.jpg";
-
+import seeYouAgain from "../images/albums/see-you-again.jpg"
+import dooWopsAndHooligans from "../images/albums/doo-wops-&-hooligans.jpg"
 export default [
+  {
+    songs: [
+      {
+        name: "See You Again (feat. Charlie Puth)",
+        artists: ["Wiz Khalifa", "Charlie Puth"],
+        url: "https://www.youtube.com/watch?v=oLbG1HmfBIk",
+      },
+      {
+        name: "Count on Me",
+        artists: ["Bruno Mars"],
+        url: "https://www.youtube.com/watch?v=6k8cpUkKK4c",
+      },
+      {
+        name: "Fight Song",
+        artists: ["Rachel Platten"],
+        url: "https://www.youtube.com/watch?v=xo1VInw-SKc",
+      },
+      {
+        name: "Riptide",
+        artists: ["Vance Joy"],
+        url: "https://www.youtube.com/watch?v=sqlyIlpV-eA",
+      },
+    ],
+    date: new Date(2017, 5, 12),
+    backgroundImage: seeYouAgain,
+    category: {
+      tag: "Graduation Song",
+      backgroundColor: "#ff5446",
+    },
+  },
   {
     songs: [
       {

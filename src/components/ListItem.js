@@ -21,7 +21,7 @@ function ListItem({ item, rounded }) {
           </a>
         )}
       >
-        <p className="hidden ml-2 text-base lg:block text-gray-light hover:text-white 2xl:text-lg">
+        <p className="hidden mx-2 text-base lg:block text-gray-light hover:text-white 2xl:text-lg">
           {item.name}
         </p>
       </ConditionalWrapper>
