@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/song-timeline/static/css/main.2f3ff4a4.chunk.css",
-    "main.js": "/song-timeline/static/js/main.4142c922.chunk.js",
-    "main.js.map": "/song-timeline/static/js/main.4142c922.chunk.js.map",
+    "main.css": "/song-timeline/static/css/main.b3a07214.chunk.css",
+    "main.js": "/song-timeline/static/js/main.8bd8d5b3.chunk.js",
+    "main.js.map": "/song-timeline/static/js/main.8bd8d5b3.chunk.js.map",
     "runtime-main.js": "/song-timeline/static/js/runtime-main.d50bdcd0.js",
     "runtime-main.js.map": "/song-timeline/static/js/runtime-main.d50bdcd0.js.map",
     "static/js/2.0cc622cd.chunk.js": "/song-timeline/static/js/2.0cc622cd.chunk.js",
     "static/js/2.0cc622cd.chunk.js.map": "/song-timeline/static/js/2.0cc622cd.chunk.js.map",
     "index.html": "/song-timeline/index.html",
-    "static/css/main.2f3ff4a4.chunk.css.map": "/song-timeline/static/css/main.2f3ff4a4.chunk.css.map",
+    "static/css/main.b3a07214.chunk.css.map": "/song-timeline/static/css/main.b3a07214.chunk.css.map",
     "static/js/2.0cc622cd.chunk.js.LICENSE.txt": "/song-timeline/static/js/2.0cc622cd.chunk.js.LICENSE.txt",
     "static/media/all-about-luv.7335a55a.jpg": "/song-timeline/static/media/all-about-luv.7335a55a.jpg",
     "static/media/bad-boy.7c687d57.jpg": "/song-timeline/static/media/bad-boy.7c687d57.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.d50bdcd0.js",
     "static/js/2.0cc622cd.chunk.js",
-    "static/css/main.2f3ff4a4.chunk.css",
-    "static/js/main.4142c922.chunk.js"
+    "static/css/main.b3a07214.chunk.css",
+    "static/js/main.8bd8d5b3.chunk.js"
   ]
 }
