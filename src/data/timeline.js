@@ -5,7 +5,7 @@ import howImFeeling from "../images/albums/how-im-feeling.jpg";
 import biggerLove from "../images/albums/bigger-love.jpg";
 import nicknames from "../images/albums/nicknames.jpg";
 
-const timelineData = [
+export default [
   {
     songs: [
       {
@@ -194,6 +194,3 @@ const timelineData = [
     },
   },
 ];
-
-export default timelineData;
-console.log("EXPORTED");

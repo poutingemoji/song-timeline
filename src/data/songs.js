@@ -4,6 +4,7 @@ import minefields from "../images/albums/minefields.jpg";
 import howItAllWorksOut from "../images/albums/how-it-all-works-out.jpg";
 import gravity from "../images/albums/gravity.jpg";
 import ambitions from "../images/albums/ambitions.jpg"
+import howImFeeling from "../images/albums/how-im-feeling.jpg"
 const songs = [
   {
     name: "Minefields",
@@ -34,6 +35,11 @@ const songs = [
     url: "https://www.youtube.com/watch?v=qUD2GxTeVcI",
   },
   {
+    name: "Invisible Things",
+    image: howImFeeling,
+    url: "https://www.youtube.com/watch?v=_lAfQwmjdGU",
+  },
+  {
     name: "Tears of Gold",
     image: tearsOfGold,
     url: "https://www.youtube.com/watch?v=XszK-TDzMnQ",
@@ -44,17 +50,5 @@ const songs = [
     url: "https://www.youtube.com/watch?v=NjN4rOBZV2s",
   },
 ];
-
-/*
-fetch(
-  "https://api.spotify.com/v1/tracks?ids=3n3Ppam7vgaVa1iaRUc9Lp%2C3twNvmDtFQtAd5gMKedhLD",
-  {
-    headers: {
-      Authorization: `Bearer ${process.env.SPOTIFY_TOKEN}`,
-    },
-  }
-)
-  .then((res) => res.json())
-  .then((playlist) => console.log(playlist));*/
 
 export default songs;
