@@ -11,15 +11,3 @@ body{
 ::-webkit-scrollbar {
     background-color: transparent !important;
 }
-
-.timeline-item:hover {
-  text-decoration: wavy;
-}
-
-.popup {
-background-color: black
-}
-
-.red {
-  background-color:red !important
-}

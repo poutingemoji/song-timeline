@@ -6,7 +6,7 @@ function Navbar() {
       <div className="hidden w-2/12 md:block"></div>
       <header className="flex flex-wrap items-center justify-center px-6 py-2 md:w-10/12 lg:px-4 lg:py-3">
         <img src={logo} style={{ verticalAlign: "middle" }} className="inline pr-2 md:hidden" />
-        <h1 className="hidden text-xl font-medium text-white md:inline xl:text-2xl">
+        <h1 className="hidden text-2xl font-medium text-white md:inline">
           poutingemoji's Song Timeline
         </h1>
       </header>
