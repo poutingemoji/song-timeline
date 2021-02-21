@@ -1,4 +1,7 @@
 import ConditionalWrapper from "./ConditionalWrapper";
+import Tippy from "@tippyjs/react";
+import "tippy.js/dist/tippy.css";
+
 const monthNames = [
   "January",
   "February",
@@ -22,10 +25,11 @@ const TimelineItem = ({ item, i }) => (
       i % 2 == 0 ? "text-right" : ""
     }`}
   >
-    <div className="order-1 w-7/16"></div>
-    <div className="z-20 flex items-center order-1 w-3 h-3 rounded-full shadow-xl bg-celadon"></div>
+    <div className="order-1 w-5/12 md:w-13/28"></div>
+    <div className="z-20 flex items-center order-1 w-3 h-3 ml-1 rounded-full shadow-xl bg-celadon"></div>
+
     <div
-      className="order-1 px-6 py-4 rounded-lg shadow-xl w-7/16"
+      className="order-1 w-5/12 px-6 py-4 rounded-lg shadow-xl md:w-13/28"
       style={{
         background: `linear-gradient(
       rgba(24, 24, 24, 0.9),
@@ -33,9 +37,16 @@ const TimelineItem = ({ item, i }) => (
     ), url(${item.backgroundImage})`,
       }}
     >
-      <h3 className="mb-3 text-lg font-bold text-white timeline-item sm:text-xl hover:wavy">{`${
-        monthNames[item.date.getMonth()]
-      } ${item.date.getDate()}, ${item.date.getFullYear()}`}</h3>
+      <ConditionalWrapper
+        condition={item.description}
+        wrapper={(children) => (
+          <Tippy content={item.description}>{children}</Tippy>
+        )}
+      >
+        <h3 className="mb-3 text-lg font-bold text-white sm:text-xl hover:wavy">{`${
+          monthNames[item.date.getMonth()]
+        } ${item.date.getDate()}, ${item.date.getFullYear()}`}</h3>
+      </ConditionalWrapper>
 
       {item.songs.map((song, i) => (
         <span key={i} className="text-sm sm:text-base">

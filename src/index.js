@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import { config } from "dotenv";
+import $ from "jquery";
 config();
 
 ReactDOM.render(

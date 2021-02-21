@@ -5,8 +5,8 @@
   "homepage": "https://poutingemoji.github.io/song-timeline/",
   "dependencies": {
     "@craco/craco": "^6.1.1",
-    "@popperjs/core": "^2.7.2",
     "@tailwindcss/postcss7-compat": "^2.0.3",
+    "@tippyjs/react": "^4.2.0",
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.35",
     "react": "^17.0.1",

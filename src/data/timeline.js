@@ -5,7 +5,7 @@ import howImFeeling from "../images/albums/how-im-feeling.jpg";
 import biggerLove from "../images/albums/bigger-love.jpg";
 import nicknames from "../images/albums/nicknames.jpg";
 import seeYouAgain from "../images/albums/see-you-again.jpg"
-import dooWopsAndHooligans from "../images/albums/doo-wops-&-hooligans.jpg"
+
 export default [
   {
     songs: [
@@ -32,10 +32,8 @@ export default [
     ],
     date: new Date(2017, 5, 12),
     backgroundImage: seeYouAgain,
-    category: {
-      tag: "Graduation Song",
-      backgroundColor: "#ff5446",
-    },
+    description:
+      "See You Again was my graduation song and the rest were fond childhood memories.",
   },
   {
     songs: [
@@ -47,10 +45,8 @@ export default [
     ],
     date: new Date(2020, 8, 14),
     backgroundImage: allAboutLuv,
-    category: {
-      tag: "Recommendation",
-      backgroundColor: "#ff5446",
-    },
+    description:
+      "This was my first Spotify recommendation. I wasn't into K-pop at the time but I loved the song.",
   },
   {
     songs: [
@@ -62,10 +58,7 @@ export default [
     ],
     date: new Date(2020, 8, 27),
     backgroundImage: badBoy,
-    category: {
-      tag: "Recommendation",
-      backgroundColor: "#ff5446",
-    },
+    description: "This recommendation got me into listening to CHUNG HA. 💜",
   },
   {
     songs: [
@@ -100,10 +93,7 @@ export default [
     ],
     date: new Date(2020, 10, 13),
     backgroundImage: hamilton,
-    category: {
-      tag: "Recommendation",
-      backgroundColor: "#ff5446",
-    },
+    description: "Another recommendation from the same friend. I didn't really understand the historical references but the music was really good.",
   },
   {
     songs: [
@@ -135,11 +125,7 @@ export default [
     ],
     date: new Date(2020, 11, 20),
     backgroundImage: howImFeeling,
-    category: {
-      tag: "Wrapped",
-      color: "#ef36a7",
-      backgroundColor: "#9cf0e1",
-    },
+    description: "This was my Spotify Wrapped 2020.",
   },
   {
     songs: [
@@ -186,9 +172,7 @@ export default [
     ],
     date: new Date(2021, 0, 28),
     backgroundImage: biggerLove,
-    category: {
-      tag: "Monthly",
-    },
+    description: "These were the songs I loved in January.",
   },
   {
     songs: [
@@ -220,8 +204,6 @@ export default [
     ],
     date: new Date(2021, 1, 9),
     backgroundImage: nicknames,
-    category: {
-      tag: "Monthly",
-    },
+    description: "These were the songs I loved in February.",
   },
 ];
