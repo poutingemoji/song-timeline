@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/song-timeline/static/css/main.cf905376.chunk.css",
-    "main.js": "/song-timeline/static/js/main.1576a555.chunk.js",
-    "main.js.map": "/song-timeline/static/js/main.1576a555.chunk.js.map",
+    "main.css": "/song-timeline/static/css/main.2f3ff4a4.chunk.css",
+    "main.js": "/song-timeline/static/js/main.4142c922.chunk.js",
+    "main.js.map": "/song-timeline/static/js/main.4142c922.chunk.js.map",
     "runtime-main.js": "/song-timeline/static/js/runtime-main.d50bdcd0.js",
     "runtime-main.js.map": "/song-timeline/static/js/runtime-main.d50bdcd0.js.map",
     "static/js/2.0cc622cd.chunk.js": "/song-timeline/static/js/2.0cc622cd.chunk.js",
     "static/js/2.0cc622cd.chunk.js.map": "/song-timeline/static/js/2.0cc622cd.chunk.js.map",
     "index.html": "/song-timeline/index.html",
-    "static/css/main.cf905376.chunk.css.map": "/song-timeline/static/css/main.cf905376.chunk.css.map",
+    "static/css/main.2f3ff4a4.chunk.css.map": "/song-timeline/static/css/main.2f3ff4a4.chunk.css.map",
     "static/js/2.0cc622cd.chunk.js.LICENSE.txt": "/song-timeline/static/js/2.0cc622cd.chunk.js.LICENSE.txt",
     "static/media/all-about-luv.7335a55a.jpg": "/song-timeline/static/media/all-about-luv.7335a55a.jpg",
     "static/media/bad-boy.7c687d57.jpg": "/song-timeline/static/media/bad-boy.7c687d57.jpg",
@@ -17,7 +17,6 @@
     "static/media/gravity.8a7af556.jpg": "/song-timeline/static/media/gravity.8a7af556.jpg",
     "static/media/how-im-feeling.edbdf299.jpg": "/song-timeline/static/media/how-im-feeling.edbdf299.jpg",
     "static/media/how-it-all-works-out.16a0da60.jpg": "/song-timeline/static/media/how-it-all-works-out.16a0da60.jpg",
-    "static/media/john-legend.740e8254.jpg": "/song-timeline/static/media/john-legend.740e8254.jpg",
     "static/media/lauv.d71e2afb.jpg": "/song-timeline/static/media/lauv.d71e2afb.jpg",
     "static/media/nicknames.ada6d3cf.jpg": "/song-timeline/static/media/nicknames.ada6d3cf.jpg",
     "static/media/sam-smith.96026c36.jpg": "/song-timeline/static/media/sam-smith.96026c36.jpg",
@@ -26,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.d50bdcd0.js",
     "static/js/2.0cc622cd.chunk.js",
-    "static/css/main.cf905376.chunk.css",
-    "static/js/main.1576a555.chunk.js"
+    "static/css/main.2f3ff4a4.chunk.css",
+    "static/js/main.4142c922.chunk.js"
   ]
 }
