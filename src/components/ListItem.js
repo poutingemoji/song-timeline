@@ -20,11 +20,11 @@ function ListItem({ item, rounded }) {
           <img
             src={item.image}
             style={{ verticalAlign: "middle" }}
-            className={`h-14 w-14 lg:w-8 lg:h-8 ${
+            className={`mr-3 h-14 w-14 lg:w-8 lg:h-8 ${
               rounded ? "rounded-full" : ""
             }`}
           />
-          <p className="hidden ml-2 text-base lg:block 2xl:text-lg">
+          <p className="hidden text-base lg:block 2xl:text-lg">
             {item.name}
           </p>
         </div>
