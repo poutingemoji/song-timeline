@@ -93,7 +93,8 @@ export default [
     ],
     date: new Date(2020, 10, 13),
     backgroundImage: hamilton,
-    description: "Another recommendation from the same friend. I didn't really understand the historical references but the music was really good.",
+    description:
+      "Another recommendation from the same friend. I didn't really understand the historical references but the music was really good.",
   },
   {
     songs: [
@@ -187,11 +188,6 @@ export default [
         url: "https://www.youtube.com/watch?v=r2KHf9Dq8P4",
       },
       {
-        name: "Dandelions",
-        artists: ["Ruth B."],
-        url: "https://www.youtube.com/watch?v=W8a4sUabCUo",
-      },
-      {
         name: "Always",
         artists: ["Isak Danielson"],
         url: "https://www.youtube.com/watch?v=YZdyIgst-S4",
@@ -200,6 +196,26 @@ export default [
         name: "Not Shy - English Ver.",
         artists: ["ITZY"],
         url: "https://www.youtube.com/watch?v=tvTdg7sgsgU",
+      },
+      {
+        name: "Superhero",
+        artists: ["Hayd"],
+        url: "https://www.youtube.com/watch?v=dMEF8Olrvyc",
+      },
+      {
+        name: "HOLO",
+        artists: ["LeeHi"],
+        url: "https://www.youtube.com/watch?v=VdeK_VsG9U0",
+      },
+      {
+        name: "Bleeding Love - Live at The Fillmore, Philadelphia, PA, 2019",
+        artists: ["Jesse McCartney"],
+        url: "https://www.youtube.com/watch?v=SupNu5Fx8CA",
+      },
+      {
+        name: "Fairytale",
+        artists: ["Livingston"],
+        url: "https://www.youtube.com/watch?v=tiPOA2vXxEc",
       },
     ],
     date: new Date(2021, 1, 9),
