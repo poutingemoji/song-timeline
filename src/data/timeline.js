@@ -198,6 +198,11 @@ export default [
         url: "https://www.youtube.com/watch?v=tvTdg7sgsgU",
       },
       {
+        name: "Bleeding Love - Live at The Fillmore, Philadelphia, PA, 2019",
+        artists: ["Jesse McCartney"],
+        url: "https://www.youtube.com/watch?v=SupNu5Fx8CA",
+      },
+      {
         name: "Superhero",
         artists: ["Hayd"],
         url: "https://www.youtube.com/watch?v=dMEF8Olrvyc",
@@ -206,11 +211,6 @@ export default [
         name: "HOLO",
         artists: ["LeeHi"],
         url: "https://www.youtube.com/watch?v=VdeK_VsG9U0",
-      },
-      {
-        name: "Bleeding Love - Live at The Fillmore, Philadelphia, PA, 2019",
-        artists: ["Jesse McCartney"],
-        url: "https://www.youtube.com/watch?v=SupNu5Fx8CA",
       },
       {
         name: "Fairytale",
